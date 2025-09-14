@@ -1,8 +1,28 @@
 # AI-Resume-Analyzer
-AI Resume Analyzer is a smart, AI-powered tool that evaluates resumes instantly. It checks skills, keyword relevance, readability, and formatting, providing actionable feedback and an overall score. Built with Python, Flask, and NLP techniques, this full-stack application helps job seekers optimize their resumes efficiently and effectively.
-Users can upload resumes in PDF or DOCX, PDF format, and the system analyzes them for:
-- Skills Matching: Compares candidate skills against job requirements.
-- Keyword Optimization: Highlights important keywords for better visibility.
-- Readability & Formatting: Checks grammar, structure, and overall readability.
-- Overall Resume Score: Provides a comprehensive score with suggestions for improvement.
-Built using Python, Flask, and NLP libraries, this project demonstrates a practical integration of AI with web development, making resume evaluation faster and smarter.
+
+## Overview
+AI-Resume-Analyzer is a **full-stack deep learning project** that analyzes resumes, extracts skills, and predicts job-fit scores in real-time.  
+It uses **PyTorch and transformer-based models** for NLP and provides a **production-ready API** with a clean, aesthetic frontend.
+
+
+## Features
+- **Deep Learning:** Transformer-based model for multi-label skill prediction
+- **Frontend:** Modern, interactive web interface
+- **Backend:** Flask API serving PyTorch model
+- **Real-Time:** Immediate inference from pasted resume text
+- **Extensible:** Can handle PDF resumes, add dashboards, or deploy to cloud/edge
+- **Production-Ready:** Clean, modular, and well-documented code
+
+
+## Tech Stack
+- **Backend:** Python, Flask, PyTorch, Transformers
+- **Frontend:** HTML, CSS, JavaScript
+- **Database:** Optional (JSON/SQLite)
+- **Deployment:** Local/Docker/Cloud
+
+
+## Installation
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/AI-Resume-Analyzer.git
+cd AI-Resume-Analyzer

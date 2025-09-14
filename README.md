@@ -47,12 +47,11 @@ Usage
 
 Paste your resume text in the textarea
 
-- **Click Analyze Resume** 
-- **View job-fit scores for each skill**
+- Click Analyze Resume 
+- View job-fit scores for each skill
 
-## Future Improvements
+Future Improvements
 
-- **Add PDF parsing for direct resume uploads**
-- **Add charts to visualize skill coverage**
-
+Add PDF parsing for direct resume uploads
+Add charts to visualize skill coverage
 Deploy on cloud/edge devices for production

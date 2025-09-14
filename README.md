@@ -24,5 +24,5 @@ It uses **PyTorch and transformer-based models** for NLP and provides a **produc
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/AI-Resume-Analyzer.git
+git clone https://github.com/Alaina1713/AI-Resume-Analyzer.git
 cd AI-Resume-Analyzer

@@ -1,0 +1,23 @@
+AI-Resume-Analyzer/
+│
+├── backend/
+│   ├── app.py                # Flask backend
+│   ├── model.py              # PyTorch model
+│   ├── preprocess.py         # Text preprocessing
+│   ├── dataset.py            # Dataset class
+│   └── utils.py              # Helper functions
+│
+├── frontend/
+│   ├── index.html            # Resume upload page
+│   ├── style.css             # Styling
+│   └── script.js             # JS interactions
+│
+├── data/
+│   └── sample_resumes.csv    # Sample dataset
+│
+├── models/
+│   └── model_state.pth       # Saved model weights
+│
+├── requirements.txt
+├── README.md
+└── Dockerfile                # Optional for deployment

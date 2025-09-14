@@ -42,3 +42,17 @@ python app.py
 
 Open your browser and go to http://127.0.0.1:5000/
 cd AI-Resume-Analyzer
+
+Usage
+
+Paste your resume text in the textarea
+
+- **Click Analyze Resume** 
+- **View job-fit scores for each skill**
+
+## Future Improvements
+
+- **Add PDF parsing for direct resume uploads**
+- **Add charts to visualize skill coverage**
+
+Deploy on cloud/edge devices for production

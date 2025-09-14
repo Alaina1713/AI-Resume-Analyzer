@@ -25,4 +25,20 @@ It uses **PyTorch and transformer-based models** for NLP and provides a **produc
 1. Clone the repository:
 ```bash
 git clone https://github.com/Alaina1713/AI-Resume-Analyzer.git
+
+Create virtual environment and install dependencies:
+
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+venv\Scripts\activate     # Windows
+pip install -r requirements.txt
+
+
+Start the Flask backend:
+
+cd backend
+python app.py
+
+
+Open your browser and go to http://127.0.0.1:5000/
 cd AI-Resume-Analyzer
